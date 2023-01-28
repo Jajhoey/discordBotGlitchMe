@@ -22,6 +22,9 @@
     "handlebars": "^4.7.7",
     "nodemon": "^2.0.20"
   },
+  "engines": {
+    "node": ">=16.9.0"
+  },
   "repository": {
     "url": "https://glitch.com/edit/#!/glitch-mvp-node"
   },
