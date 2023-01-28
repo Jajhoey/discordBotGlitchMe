@@ -2,9 +2,9 @@
   "name": "glitch-mvp-node",
   "version": "0.1.0",
   "description": "A simple Node app built on fastify, instantly up and running.",
-  "main": "node server.js",
+  "main": "node index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
