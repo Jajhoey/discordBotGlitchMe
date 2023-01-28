@@ -4,7 +4,6 @@ const { REST } = require("@discordjs/rest")
 const {GatewayIntentBits, Routes} = require("discord-api-types/v10")
 const { Client, Intents, Collection} = require("discord.js");
 const { Player } = require("discord-player");
-
 const fs = require("node:fs");
 const path = require("node:path");
 
